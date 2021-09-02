@@ -32,4 +32,7 @@ https://github.com/ShuGuoJ/HSI-Classification
 https://github.com/eecn/Hyperspectral-Classification  
 
 - A2S2K-ResNet  
-https://github.com/suvojit-0x55aa/A2S2K-ResNet  
+https://github.com/suvojit-0x55aa/A2S2K-ResNet 
+
+- Deep Manifold Embedding for Hyperspectral Image Classification  
+- https://github.com/shendu-sw/deep-manifold-embedding  
